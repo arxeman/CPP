@@ -7,11 +7,11 @@ int main()
     cin>>a;
     cout<<"enter b: ";
     cin>>b;
-    int sum=a+b;
-    int diff=a-b;
-    int prod=a*b;
-    double div=a/b;
-    int mod=a%b;
+    int sum=a+b;  //addition
+    int diff=a-b;  //difference
+    int prod=a*b;  //multiplication
+    double div=a/b;  //quotient
+    int mod=a%b;  //remainder
     cout << "Sum = "<<sum<<endl;
     cout<<"Difference = "<<diff<<endl;
     cout<<"Product = "<<prod<<endl;
